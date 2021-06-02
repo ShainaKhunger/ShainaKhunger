@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-01T17:51:53 IST" name="Suite" finished-at="2021-06-01T17:52:03 IST" duration-ms="9371">
+    <groups>
+    </groups>
+    <test started-at="2021-06-01T17:51:53 IST" name="Test" finished-at="2021-06-01T17:52:03 IST" duration-ms="9371">
+      <class name="BtesHrm_PIM.TestCases.LoginTest">
+        <test-method is-config="true" signature="Launch()[pri:0, instance:BtesHrm_PIM.TestCases.LoginTest@50caa560]" started-at="2021-06-01T17:51:50 IST" name="Launch" finished-at="2021-06-01T17:51:53 IST" duration-ms="2813" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch -->
+        <test-method signature="Check_Img()[pri:1, instance:BtesHrm_PIM.TestCases.LoginTest@50caa560]" started-at="2021-06-01T17:51:53 IST" name="Check_Img" finished-at="2021-06-01T17:51:53 IST" duration-ms="91" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Check_Img -->
+        <test-method signature="Invalid_Login()[pri:2, instance:BtesHrm_PIM.TestCases.LoginTest@50caa560]" started-at="2021-06-01T17:51:53 IST" name="Invalid_Login" finished-at="2021-06-01T17:51:55 IST" duration-ms="1473" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Invalid_Login -->
+        <test-method signature="VldUserInvdPass()[pri:3, instance:BtesHrm_PIM.TestCases.LoginTest@50caa560]" started-at="2021-06-01T17:51:55 IST" name="VldUserInvdPass" finished-at="2021-06-01T17:51:56 IST" duration-ms="1487" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VldUserInvdPass -->
+        <test-method signature="InvdUserVldPass()[pri:4, instance:BtesHrm_PIM.TestCases.LoginTest@50caa560]" started-at="2021-06-01T17:51:56 IST" name="InvdUserVldPass" finished-at="2021-06-01T17:51:58 IST" duration-ms="1504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvdUserVldPass -->
+        <test-method signature="Valid_Login()[pri:5, instance:BtesHrm_PIM.TestCases.LoginTest@50caa560]" started-at="2021-06-01T17:51:58 IST" name="Valid_Login" finished-at="2021-06-01T17:52:03 IST" duration-ms="4774" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Valid_Login -->
+        <test-method is-config="true" signature="Terminate()[pri:0, instance:BtesHrm_PIM.TestCases.LoginTest@50caa560]" started-at="2021-06-01T17:52:03 IST" name="Terminate" finished-at="2021-06-01T17:52:03 IST" duration-ms="69" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Terminate -->
+      </class> <!-- BtesHrm_PIM.TestCases.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
